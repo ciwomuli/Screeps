@@ -1,0 +1,3 @@
+interface MoveOpt {
+    range: number;
+}
